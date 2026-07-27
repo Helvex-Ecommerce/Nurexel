@@ -232,7 +232,7 @@
                 "selected_upsells_secondary_style_text_color": "#121212",
                 "selected_upsells_secondary_style_badge_bg": "#6d388b",
                 "selected_upsells_secondary_style_badge_text_color": "#fff",
-                "enable_variant_selectors": true,
+                "enable_variant_selectors": false,
                 "pickers_label": "",
                 "enable_variant_selectors_on_quantity_of_1": false,
                 "update_prices": false,
